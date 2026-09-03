@@ -50,6 +50,7 @@ public class usirokenti1 : MonoBehaviour
             if (map2 == 3) SceneManager.LoadScene("ihen4");
             if (map2 == 4) SceneManager.LoadScene("ihen5");
             if (map2 == 5) SceneManager.LoadScene("ihen6");
+            if (map2 == 6) SceneManager.LoadScene("ihen7");
 
         }
         else
