@@ -18,11 +18,11 @@ public class idoutesy : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.LeftArrow))
         {
-            speed = 5f;
+            speed = -5f;
         }
         else if (Input.GetKey(KeyCode.RightArrow))
         {
-            speed = -5f;
+            speed = 5f;
         }
         else
         {

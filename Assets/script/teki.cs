@@ -5,7 +5,7 @@ public class teki : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     Rigidbody2D rb;
-    float speed = -30f;
+    float speed = -7f;
 
     void Start()
     {

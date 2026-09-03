@@ -19,7 +19,7 @@ public class shot : MonoBehaviour
         if (timer >= interval && count < maxCount)
         {
             Instantiate(Object,
-                new Vector3(5.49f, -3.21f, 0),
+                new Vector3(40.74f, -0.71f, 0),
                 Quaternion.identity);
 
             count++;

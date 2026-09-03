@@ -7,12 +7,33 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: 57c94c413919e41479aef8d2feec24e0
   - enabled: 1
     path: Assets/nomal.unity
     guid: 7e72ca1745980234682d99a04fcc541e
   - enabled: 1
     path: Assets/ihen scene/ihen6.unity
-    guid: 27d0db517c172a545982d54e90ca8f29
+    guid: a3f75c9af760d3846bdf4b9854f2bbf9
+  - enabled: 1
+    path: Assets/ihen scene/ihen2.unity
+    guid: 7217b143d8191074bbb615043fe6d67d
+  - enabled: 1
+    path: Assets/ihen scene/ihen7.unity
+    guid: 8bf03557600ff8148a91fcf0238a20ae
+  - enabled: 1
+    path: Assets/ihen scene/ihen5.unity
+    guid: b518c7b5033a80a44860c5cd74db00c3
+  - enabled: 1
+    path: Assets/ihen scene/ihen4.unity
+    guid: cfee53e49f67cc24fa344cab941d59e2
+  - enabled: 1
+    path: Assets/ihen scene/ihen3.unity
+    guid: ef5bd549713aa1146a7dbf3ea2e6e7f5
+  - enabled: 1
+    path: Assets/ihen scene/ihen1.unity
+    guid: dfd2cb212f6ea91438fc1f8d468ad8af
+  - enabled: 1
+    path: Assets/goal.unity
+    guid: 9ee2801674fc29342902f873d4b9bc2f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
